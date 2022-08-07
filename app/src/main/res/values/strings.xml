@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Android_Tutorials</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Home_Page_Fragment">Home</string>
+    <string name="ContactUs_Page_Fragment">Conatct Us</string>
+    <string name="Profile_Page_Fragment">Profile</string>
 </resources>
